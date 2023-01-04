@@ -1,0 +1,256 @@
+DIGIT ZERO: 0 O o 0️⃣
+DIGIT ONE: 1 I L i l ! £ ₤ ₺ 1️⃣
+DIGIT TWO: 2 Z z = 2️⃣
+DIGIT THREE: 3 3️⃣
+DIGIT FOUR: 4 4️⃣
+DIGIT FIVE: 5 5️⃣
+DIGIT SIX: 6 6️⃣
+DIGIT SEVEN: 7 7️⃣
+DIGIT EIGHT: 8 8️⃣
+DIGIT NINE: 9 9️⃣
+LATIN CAPITAL LETTER A: A a @ ₳
+LATIN CAPITAL LETTER B: B b ₿ ฿
+LATIN CAPITAL LETTER C: C c
+LATIN CAPITAL LETTER D: D d
+LATIN CAPITAL LETTER E: E e €
+LATIN CAPITAL LETTER F: F f
+LATIN CAPITAL LETTER G: G g
+LATIN CAPITAL LETTER H: H h #
+LATIN CAPITAL LETTER J: J j
+LATIN CAPITAL LETTER K: K k
+LATIN CAPITAL LETTER M: M m
+LATIN CAPITAL LETTER N: N n &
+LATIN CAPITAL LETTER P: P p %
+LATIN CAPITAL LETTER Q: Q q ?
+LATIN CAPITAL LETTER R: R r ₽
+LATIN CAPITAL LETTER S: S s $ §
+LATIN CAPITAL LETTER T: T t + ±
+LATIN CAPITAL LETTER U: U u
+LATIN CAPITAL LETTER V: V v
+LATIN CAPITAL LETTER W: W w
+LATIN CAPITAL LETTER X: X x *
+LATIN CAPITAL LETTER Y: Y y ¥
+SMILEY: 😀 😁😂😃😄😅😆😇😉😊😋😌😍😎😏😐😑😒😓😔😕😖😗😘😙😚😛😜😝😞😟😠😢😣😤😥😦😧😨😩😪😫😬😭😮😯😰😱😲😳😴😵😶😷🙁🙂🙃🙄🤐🤑🤒🤓🤔🤕🤗🤠🤣🤤🤥🤧🤨🤩🤪🤫🤭🤮🤯🥰🥱🥲🥳🥴🥸🥺🧐😈😡🤢🤬
+SKULL: ☠ 💀
+SHIT: 💩
+CLOWN: 🤡 👹 👺
+GHOST: 👻
+ALIEN: 👽 👾
+ROBOT: 🤖
+HEART: ❤ 💌💘 💝💖💗💓💞💕💟❣🧡💛💚💙💜🤎🖤🤍🫀
+COLLISION: 💥
+SPEECH BUBBLE: 💬 🗨🗯💭
+HAND: 👋 🤚🖐✋🖖👌🤌🤏✌🤞🤟🤘🤙👈👉👆🖕👇☝👍👎✊👊🤛🤜👏🙌👐🤲🤝🙏
+ARM: 💪 🦾
+FOOT: 🦶🦵🦿
+EAR: 👂 🦻
+NOSE: 👃
+BRAIN: 🧠
+LUNGS: 🫁
+TOOTH: 🦷
+BONE: 🦴
+EYE: 👁 👀
+MOUTH: 👄 💋👅
+CHILD: 👶 🧒👦👧
+MAN: 👨
+WOMEN: 👩
+GROUP: 👪
+RUNNING: 🏃
+SWIMMING: 🏊
+CYCLING: 🚴
+LIFTING: 🏋
+SITTING: 🧘
+CAT: 😸 😹😺😻😼😽😾😿🙀🐱🐈
+MONKEY: 🐵 🙈🙉🙊🦍🦧
+DOG: 🐶 🐕🦮🐩
+LION: 🦁
+HORSE: 🐴 🐎🦄🦓
+COW: 🐮
+PIG: 🐷
+SHEEP: 🐏 🐑🐐
+GIRAFFE: 🦒
+ELEPHANT: 🐘
+RHINOCEROS: 🦏
+MOUSE: 🐭
+RABBIT: 🐰
+SQUIRREL: 🐿
+HEDGEHOG: 🦔
+BAT: 🦇
+BEAR: 🐻 🐨🐼
+KANGAROO: 🦘
+CHICKEN: 🐔 🐓🐣🐤🐥
+BIRD: 🦅 🐦🐧🕊
+FEATHER: 🪶
+FROG: 🐸
+CROCODILE: 🐊
+TURTLE: 🐢
+SNAKE: 🐍
+DRAGON: 🐲🐉🦕🦖
+WHALE: 🐳
+SEAL: 🦭
+FISH: 🐟 🐬🐠🐡🦈
+OCTOPUS: 🐙
+SHELL: 🐚
+SNALE: 🐌
+BUTTERFLY: 🦋
+BEE: 🐝
+BUG: 🪰 🦗🪳🕷🦟
+SCORPION: 🦂
+MICROBE: 🦠
+FLOWER: 💐 🌸💮🏵🌹🥀🌺🌻🌼🌷
+PLANT: 🪴 🌱
+TREE: 🌲🌳🌴
+CACTUS: 🌵
+LEAF: 🍁 ☘🍀🍂🍃
+MUSHROOM: 🍄
+GRAPES: 🍇
+MELON: 🍉 🍈
+CITRUS: 🍋 🍊
+BANANA: 🍌
+PINEAPPLE: 🍍
+APPLE: 🍏 🍎
+PEAR: 🍐
+CHERRIES: 🍒
+STRAWBERRY: 🍓
+BLUEBERRIES: 🫐
+OLIVE: 🫒
+COCONUT: 🥥
+ADVOCADO: 🥑
+EGGPLANT: 🍆
+CARROT: 🥕
+CORN: 🌽
+PEPPER: 🌶
+BROCCOLI: 🥦
+NUT: 🌰
+BREAD: 🍞 🥐🥖🫓🥯
+CHEESE: 🧀
+MEAT: 🍖 🍗🥩🥓
+HAMBURGER: 🍔
+FRIES: 🍟
+PIZZA: 🍕
+EGG: 🥚
+POPCORN: 🍿
+SALT: 🧂
+RICE: 🍚
+Bowl: 🍜
+SUSHI: 🍣
+MARINE: 🦞 🦀🦐🦑🦪
+ICECREAM: 🍦
+COOKIE: 🍪
+CAKE: 🍰
+CHOCOLATE: 🍫
+CANDY: 🍬 🍭
+MILK: 🥛
+COFFEE: ☕
+TEAPOT: 🫖
+WINE: 🍷
+BEER: 🍺
+CUTLERY: 🍽 🍴🥢🔪
+PLANET: 🌍 🌎🌏🌐🗺
+COMPASS: 🧭
+MOUNTAIN: ⛰ 🏔🌋🗻
+BEACH: 🏖
+CONSTRUCTION: 🏗
+HOME: 🏠 🏘🏚🏡
+BUILDING: 🏢 🏛🏬
+PLACE OF WORSHIP: ⛪ 🕌🛕🕍⛩🕋
+FOUNTAIN: ⛲
+CAMPING: ⛺
+RAIL TRANSPORT: 🚂 🚃🚄🚅🚆🚇🚈🚉🚊🚋🚝🚞
+CAR: 🚗 🚌 �🚍🚎🚏🚐🚑🚒🚓🚔🚕🚖🚘🚙🚚🚛🚜
+BICYCLE: 🚲
+ANCHOR: ⚓
+BOAT: 🚢
+PLANE: ✈ 🚁
+CABLECAR: 🚠 🚟🚡
+UFO: 🚀 🛰🛸
+SKATES: 🛼 🛹
+FUEL PUMP: ⛽
+TRAFFIC SIGNS: 🚦🚥🚧🚨
+SUITCASE: 🧳
+TIME: ⏰ ⏱⏲🕰🕛🕧🕐🕜🕑🕝🕒🕞🕓🕟🕔🕠🕕🕡🕖🕢🕗🕣🕘🕤🕙🕥🕚🕦
+MOON: 🌙 🌑🌒🌓🌔🌕🌖🌗🌘🌚🌛🌜🌝
+TEMPERATURE: 🌡
+SUN: ☀ 🌞⭐🌟🌠
+CLOUD: 🌧 ☁⛅⛈🌤🌥🌦🌨🌩
+WHIRLWIND: 🌪
+RAINBOW: 🌈
+UMBRELLA: ☂☔⛱
+LIGHTNING: ⚡
+SNOW: ❄ ☃⛄
+FIRE: 🔥
+WATER: 💧
+DYNAMITE: 🧨
+BALLOON: 🎈
+GIFT: 🎁
+TROPHY: 🏆 🏅🥇🥈🥉
+BAL: ⚽ ⚾🥎🏀🏐🏈🏉🎾
+BOWLING: 🎳
+HOCKEY: 🏏 🏑🏒🥍🏓
+MARTIAL ARTS: 🥊 🥋
+GOAL: 🥅
+DICE: 🎲
+PUZZLE: 🧩
+ARTS: 🎨
+GLASSES: 👓
+SHIRT: 👕
+PANTS: 👖
+GLOVES: 🧤
+SOCKS: 🧦
+DRESS: 👗
+BAGS: 🛍 👜👝
+SHOE: 👞 🩴👟🥾🥿👠👡🩰👢
+CROWN: 👑
+HAT: 🎩 👒🧢
+LIPSTICK: 💄
+JEWELLERY: 💍 💎
+LOUDSPEAKER: 🔈 🔇🔉🔊
+BEL: 🔔🔕
+MUSIC: 🎵 🎶🎼
+HEADPHONES: 🎧
+WIND INSTRUMENT: 🎷 🎺
+STRING INSTRUMENT: 🎸
+KEYS: 🎹
+DRUMS: 🥁
+TELEPHONE: ☎ 📱📞📟📠
+PLUG: 🔌
+COMPUTER: 🖥 💻⌨🖱
+PRINTER: 🖨
+ABACUS: 🧮
+MOVIE: 🎬
+CAMERA: 📷
+MAGNIFYING GLASS: 🔍
+LIGHT: 💡 🕯🔦🏮
+BOOK: 📖
+MONEY: 💰 🪙
+MAIL: ✉
+PEN: ✏
+FOLDER: 📁
+CALENDER: 📅
+PAPERCLIP: 📎
+RULER: 📏
+SCISSORS: ✂
+LOCK: 🔒
+KEY: 🔑
+HAMMER: 🔨
+SAW: 🪚
+BOMB: 💣
+GEARS: ⚙
+BALANCE: ⚖
+MAGNET: 🧲
+STEPS: 🪜
+TUBE: 🧪
+SYRINGE: 💉
+PILL: 💊
+BANDAGE: 🩹
+DOOR: 🚪
+WINDOW: 🪟
+BED: 🛏
+CHAIR: 🪑
+BATH: 🚿 🛁
+SHOPPING CART: 🛒
+CIGARETTE: 🚬
+TOILET: 🚽 🧻
+TOOTHBRUSH: 🪥
+SHAVING: 🪒
+FLAG: 🚩 🏁🎌🏴🏳
