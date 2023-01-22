@@ -199,7 +199,7 @@ Possible use cases:
 | 131 | 🍿 | U+1f37f | POPCORN |  |
 | 132 | 🧂 | U+1f9c2 | SALT |  |
 | 133 | 🍚 | U+1f35a | RICE |  |
-| 134 | 🍜 | U+1f35c | Bowl |  |
+| 134 | 🍜 | U+1f35c | BOWL |  |
 | 135 | 🍣 | U+1f363 | SUSHI |  |
 | 136 | 🦞 | U+1f99e | MARINE | 🦀 🦐 🦑 🦪 |
 | 137 | 🍦 | U+1f366 | ICECREAM |  |
