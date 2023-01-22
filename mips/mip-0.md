@@ -4,13 +4,13 @@
 
 ## Character map
 
-We propose a base256 case-insensitive alphabet, containing the numbers 0 to 9, the capitals of the Latin alphabet, minus the ambiguous characters I, L, O and Z. Plus an additional 224, most popular and widely adopted emoji characters, selected to be as distinct as possible, both visibly and culturally.
+We propose a base256 case-insensitive alphabet, containing the numbers 0 to 9, the letters of the Latin alphabet, minus the ambiguous characters I, L, O and Z. Plus an additional 224, most popular and widely adopted emoji characters, selected to be as distinct as possible, both visibly and culturally.
 
-In addition to the primary 256 characters, other related Unicode characters could be mapped to one of the 256 indices of the primary alphabet. For example member 0 will also contain capital and lowercase O. Member 2 will also contain capital and lowercase Z. Each character group will also have a human readable name.
+In addition to the primary 256 symbols, other related / ambiguous Unicode characters could be mapped to one of the 256 indices of the primary alphabet. Capital and lowercase letters will map to the same index. And for example member 0 will also contain capital and lowercase O. Member 2 will also contain capital and lowercase Z. Each character group will also have a human readable name.
 
 Possible use cases:
-- To be used as a more compact (less characters), visually distinguishable and thus human verifiable, replacement for both Hex and Base58 encoded public keys, addresses, etc. In addition allowing interesting opportunities for creating vanity addresses.
-- A more compact and playful replacement for BIP39 Seed phrase words.
+- To be used as a more compact (less characters), visually distinguishable and thus human verifiable, replacement for both Hex, Bech32 and Base58 encoded public keys, addresses, etc. In addition allowing interesting opportunities for creating vanity addresses.
+- A more compact and playful replacement for [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki) Seed phrase words.
 - More colorful, less mechanic looking [QR-codes](img/qr-code.png)
 
 ## Examples
@@ -51,8 +51,8 @@ Possible use cases:
 - Ambiguities between various Unicode characters
 
 ## TBD
-- Final selection of characters, names, plus mapping of related characters to an index.
-- Decide if related characters should be supported at all (especially for multi-character emojis)
+- Final selection of symbols, names, plus mapping of ambiguous characters to an index.
+- Decide if ambiguous symbols should be supported at all (especially for multi-character emojis)
 - Standardized checksum method, error detection / correction
 
 ## Alphabet
@@ -64,7 +64,7 @@ Possible use cases:
 > Note the encapsulated sub bases: `0-1` binary, `0-9` decimal, `0-9A-F` hexidecimal, `0-9A-Y` base32
 
 ## Table
-| index | character | Unicode | name (English) | related |
+| index | symbol | Unicode | name (English) | ambiguous symbols |
 | --- | --- | --- | --- | --- |
 | 0 | 0 | U+0030 | DIGIT ZERO | O o 0️⃣ |
 | 1 | 1 | U+0031 | DIGIT ONE | I L i l ! £ ₤ ₺ 1️⃣ |
