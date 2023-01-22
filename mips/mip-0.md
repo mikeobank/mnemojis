@@ -251,7 +251,7 @@ Possible use cases:
 | 183 | 🎈 | U+1f388 | BALLOON |  |
 | 184 | 🎁 | U+1f381 | GIFT |  |
 | 185 | 🏆 | U+1f3c6 | TROPHY | 🏅 🥇 🥈 🥉 |
-| 186 | ⚽ | U+26bd | BAL | ⚾ 🥎 🏀 🏐 🏈 🏉 🎾 |
+| 186 | ⚽ | U+26bd | BALL | ⚾ 🥎 🏀 🏐 🏈 🏉 🎾 |
 | 187 | 🎳 | U+1f3b3 | BOWLING |  |
 | 188 | 🏏 | U+1f3cf | HOCKEY | 🏑 🏒 🥍 🏓 |
 | 189 | 🥊 | U+1f94a | MARTIAL ARTS | 🥋 |
